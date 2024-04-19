@@ -7,3 +7,24 @@
 h1, h2 {
     color: rgb(255, 171, 0);
 }
+
+.home-body {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.recipe-links {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.recipe-links li {
+    margin-bottom: 10px;
+}
+
+.home-title {
+    font-size: 48px;
+    margin: 10px 0 10px 0;
+}
